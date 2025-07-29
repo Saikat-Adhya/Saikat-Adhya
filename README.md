@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikat-Adhya
 - 👀 I’m interested in Web Development and Java Developer
-- 🌱 I’m currently learning HTML,CSS,JavaScript,ReactJS,NodeJs,MongoDB
+- 🌱 I’m currently learning HTML,CSS,JavaScript,ReactJS,NodeJs,MongoDB,Express.js,JWT,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Linkedin(https://www.linkedin.com/in/saikat-adhya-53b7452a9/)
 - 😄 Pronouns: ...
